@@ -1,0 +1,51 @@
+{
+	"id": -1,
+	"name": "Fear and Hunger Girl and Chibi peeps",
+	"description": "The little girl from the game Fear and Hunger holding her peculiar doll\n\nShe is in good company with her friends, the chibi forms of all the playable/recruitable characters of the game, surrounding her\n\nNotice to their left, the girl's deadbeat dad and passion object to D'arce, the King in Yellow, Le'garde (not actually him)",
+	"links": {
+		"website": [
+			"https://store.steampowered.com/agecheck/app/1002300/"
+		],
+		"subreddit": [
+			"FearAndHunger"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				958,
+				153
+			],
+			[
+				989,
+				153
+			],
+			[
+				989,
+				196
+			],
+			[
+				991,
+				196
+			],
+			[
+				992,
+				214
+			],
+			[
+				958,
+				215
+			],
+			[
+				958,
+				183
+			]
+		]
+	},
+	"center": {
+		"254": [
+			974,
+			169
+		]
+	}
+}
